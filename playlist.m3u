@@ -1,3 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg" group-title="Deportes", Slam Dunk - Episodio 1
-https://ok.ru/videoembed/971529718286
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 001 - El nacimiento de un gran basquetbolista
+https://archive.org/download/sd-001_202305/SD-001.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 002 - Hanamichi Vs. Rukawa
+https://archive.org/download/sd-002_202305/SD-002.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 003 - El capitán Gorila Vs. Hanamichi
+https://archive.org/download/sd-003_20230522/SD-003.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 004 - Hanamichi entra al equipo de basketball
+https://archive.org/download/sd-004/SD-004.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 005 - Hanamichi pierde su tenacidad
+https://archive.org/download/sd-005/SD-005.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 006 - Rukawa Vs. Akagi
+https://archive.org/download/sd-006/SD-006.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 007 - Hanamichi entra a jugar
+https://archive.org/download/sd-007/SD-007.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 008 - Hanamichi se encuentra en problemas
+https://archive.org/download/sd-008/SD-008.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 009 - Me voy a quedar en el equipo de basketball
+https://archive.org/download/sd-009/SD-009.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 010 - Es difícil realizar un tiro fácil
+https://archive.org/download/sd-010/SD-010.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 011 - Un entrenamiento en secreto
+https://archive.org/download/sd-011/SD-011.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 012 - Un entrenamiento nocturno
+https://archive.org/download/sd-012/SD-012.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 013 - Shohoku Vs. Ryonan
+https://archive.org/download/sd-013/SD-013.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 014 - El súper ataque de Ryonan
+https://archive.org/download/sd-014/SD-014.mp4
+#EXTINF:-1 group-title="Slam Dunk" tvg-id="SlamDunk" tvg-name="Slam Dunk" tvg-logo="https://i.pinimg.com/564x/78/40/be/7840be9d9fe0103f14a75b198fa87a7e.jpg", 015 - Hanamichi se pone nervioso en el partido
+https://archive.org/download/sd-015/SD-015.mp4
+#EXTINF:-1 group-title="Chainsaw Man" tvg-id="ChainsawMan" tvg-name="Chainsaw Man" tvg-logo="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dDwTq0HNQGMCpEdVQQyksvJvUcP.jpg", 001 - Perro y Motosierra
+https://archive.org/download/sd-015/SD-015.mp4
